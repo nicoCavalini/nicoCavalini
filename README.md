@@ -51,7 +51,7 @@
 ### 📬 Contatos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-cavalini-663730189/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/nicolascavalini_official" target="_blank">
