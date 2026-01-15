@@ -1,15 +1,10 @@
 ## 🖖🏻 Saudações! Eu me chamo Nicolas Cavalini
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoCavalini&show_icons=true&theme=tokyonight&hide_rank=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoCavalini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoCavalini&layout=compact&theme=tokyonight&langs_count=5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoCavalini&layout=compact&langs_count=7&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nicoCavalini&theme=tokyonight)
-
-</div>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=nicoCavalini&theme=tokyonight&hide_border=true)
 
 <div align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=nicoCavalini&theme=tokyonight"/>
