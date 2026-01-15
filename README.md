@@ -1,25 +1,63 @@
-## 🖖🏻 Saudações! Eu me chamo Nicolas Cavalini
+## 🖖🏻 Nicolas Cavalini
+### 💻 Desenvolvedor Full Stack | Java • Web • ERP
 
-
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=nicoCavalini&theme=tokyonight&hide_border=true" />
-</div>
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nico-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Nico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nico-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Nico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nico-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Nico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/nicolas-cavalini-663730189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/nicolascavalini_official" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:nico.cavalini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img title="Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
+  <img title="Python" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img title="C#" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img title="JavaScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img title="TypeScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img title="HTML5" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img title="CSS3" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+- Desenvolvedor Sênior com experiência em **sistemas corporativos e ERP**
+- Experiência com **Java, Python, Web e aplicações empresariais**
+- Interesse em **arquitetura de software, automação e IA aplicada**
+
+---
+
+### 🎓 Formações
+
+- Pós-Ciências de Dados e Inteligência Artificial - **Uninter: CURSANDO**
+- Bacharelado em Engenharia de Software - **Uninter: CURSANDO**
+- MBA em Full Stack Developer - **Impacta: FORMADO**
+- Tecnólogo em Análise e Desenvolvimento de Sistemas - **Impacta: FORMADO**
+- Técnico em Informática - **Etec Dr. Emilio Hernandez Aguilar: FORMADO**
+
+---
+
+### 🚀 Atualmente focado em
+
+- Arquitetura de Software e Clean Code
+- Integração de IA em sistemas ERP
+- Evolução contínua como Desenveolvedor Full Stack
+- Novas oportunidades de trabalho
+
+---
+
+### 📬 Contatos
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/nicolascavalini_official" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:nico.cavalini@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
