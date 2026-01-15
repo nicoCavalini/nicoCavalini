@@ -1,9 +1,15 @@
 ## 🖖🏻 Saudações! Eu me chamo Nicolas Cavalini
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nicoCavalini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoCavalini&layout=compact&langs_count=7&theme=tokyonight"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoCavalini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoCavalini&layout=compact&langs_count=7&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nicoCavalini&theme=tokyonight)
+
 </div>
+
 
 <div align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=nicoCavalini&theme=tokyonight"/>
