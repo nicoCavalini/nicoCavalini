@@ -1,14 +1,8 @@
 ## 🖖🏻 Saudações! Eu me chamo Nicolas Cavalini
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoCavalini&show_icons=true&theme=tokyonight&hide_rank=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoCavalini&layout=compact&theme=tokyonight&langs_count=5)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nicoCavalini&theme=tokyonight&hide_border=true)
-
-<div align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=nicoCavalini&theme=tokyonight"/>
-</div>
+<p align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=nicoCavalini&theme=tokyonight&hide_border=true)
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nico-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
